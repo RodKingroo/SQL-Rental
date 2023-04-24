@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL Rental">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-FG23U73:DESKTOP-FG23U73\admin">
+          <Created>2023-03-26T22:22:18.8639674+06:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-FG23U73</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Database.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-FG23U73:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-FG23U73</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Database.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Procedure1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-FG23U73:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-FG23U73</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Procedure1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Procedure2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-FG23U73:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-FG23U73</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Procedure2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Query1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-FG23U73:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-FG23U73</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Query1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Query2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-FG23U73:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-FG23U73</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Query2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Query3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-FG23U73:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-FG23U73</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Query3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Query4.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-FG23U73:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-FG23U73</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Query4.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Query5.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-FG23U73:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-FG23U73</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Query5.sql</FullPath>
+        </FileNode>
+        <FileNode Name="QueryP1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-FG23U73:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-FG23U73</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>QueryP1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="QueryP2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-FG23U73:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-FG23U73</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>QueryP2.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
