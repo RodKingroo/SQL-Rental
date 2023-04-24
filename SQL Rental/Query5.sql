@@ -27,7 +27,7 @@
 */
 
 UPDATE 
-    Car 
+    [RentalDB].[dbo].[Car] 
 SET
     price_rental_car = price_rental_car / 2
 WHERE 

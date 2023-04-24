@@ -20,9 +20,18 @@ USE RentalDB;
 GO
 
 CREATE PROCEDURE proc2 AS
-    SELECT TOP 3
-        *
-    FROM 
-        Car
-    ORDER BY 
-        id_car 
+
+-- [RU] Обьявление переменной
+-- [EN] Declaration of variables
+DECLARE @CNT INT;
+
+-- [RU] Количество строк в таблице.
+-- [EN] Number of rows in table.
+SET @CNT = (SELECT COUNT(*) FROM Car);
+
+-- [RU] Получение последних строк
+-- [EN] Get the last rows
+SELECT * 
+FROM [Car] 
+ORDER BY [id_car] 
+OFFSET @CNT - 3 ROWS FETCH NEXT 3 ROWS ONLY;
