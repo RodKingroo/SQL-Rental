@@ -79,6 +79,30 @@
           <AssociatedConnUserName />
           <FullPath>QueryP2.sql</FullPath>
         </FileNode>
+        <FileNode Name="Trigger1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-FG23U73:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-FG23U73</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Trigger1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Trigger2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-FG23U73:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-FG23U73</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Trigger2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="View1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-FG23U73:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-FG23U73</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>View1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="View2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-FG23U73:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-FG23U73</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>View2.sql</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">

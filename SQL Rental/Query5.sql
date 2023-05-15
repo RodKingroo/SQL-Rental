@@ -37,7 +37,7 @@ IN
     SELECT 
         id_car_rental
     FROM 
-        Rental
+        [RentalDB].[dbo].[Rental]
     GROUP BY 
         id_car_rental
     HAVING 

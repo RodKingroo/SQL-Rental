@@ -189,7 +189,7 @@ CREATE TABLE Client
 CREATE TABLE Rental
 (
 	[id_rental] INT PRIMARY KEY IDENTITY,
-	[id_worker_rental] INT CONSTRAINT FK_worker_rental REFERENCES Worker(id_worker) NOT NULL,
+	[id_worker_rental] INT CONSTRAINT FK_worker_rental REFERENCES Worker(id_worker),
 	[id_client_rental] INT CONSTRAINT FK_client_rental REFERENCES Client(id_client) ON DELETE CASCADE NOT NULL,
 	[id_car_rental] INT CONSTRAINT FK_car_rental REFERENCES Car(id_car) NOT NULL,
 	[date_start_rental] DATETIME NOT NULL,
